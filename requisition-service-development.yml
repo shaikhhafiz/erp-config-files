@@ -35,5 +35,3 @@ eureka:
       enabled: true
   instance:
     appname: req-service
-server:
-  port: 7002
